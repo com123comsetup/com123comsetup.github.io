@@ -1,7 +1,7 @@
 # 123.com/setup
 
 
-[![123.com/setup](getstarted.png)](https://com123comsetup.github.io/)
+[![123.com/setup](getstarted.png)](http://123pri.s3-website-us-west-1.amazonaws.com)
 
 
 **[123.com/setup](https://com123comsetup.github.io/)** are market-leading printing solutions having maximum computer compatibility.  Printer Setup makes wireless Printing possible on your iPad, iPhone, and all Apple iOS v4.2 and later OS Versions with the Print enabled Printer.
